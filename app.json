@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Busify",
+    "slug": "busify",
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "primaryColor": "#000000",
+    "sdkVersion": "30.0.0",
+    "notification": {
+      "androidMode": "default"
+    }
+  }
+}
